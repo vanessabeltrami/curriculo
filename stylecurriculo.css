@@ -1,0 +1,38 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    width: 100%;
+    text-align: center;
+    background: #e7cfcf;
+
+  }
+  
+header {
+
+    width:200%;    
+    margin-left:5%;
+    margin-right: 50%;        
+    text-align:justify;
+    display:inline;  
+    
+}
+
+.planodefundo {
+
+font-family: Verdana, Geneva, Tahoma, sans-serif; color: white;
+-webkit-text-stroke-width:2px;
+-webkit-text-stroke-color: #000;
+background: url(programa.jpg);
+display:flow-root;
+padding: 30px;
+
+}
+   
+.informacoespessoais,.resumoprofissional,.formaçao, .cursos, .experienciaprofissional {
+    width: 100%;
+    margin-right: 15%;
+    text-align: center;
+    background: #d2a3db;  
+    margin-top: -1%;
+
+}
+
